@@ -50,23 +50,41 @@ export const portfolioData = {
   projects: [
     {
       id: 1,
-      title: "E-Commerce App",
+      title: "Yaash Mart",
       description:
-        "A full-fledged e-commerce application with Flutter frontend and Node.js backend.",
-      technologies: ["Flutter", "Node.js", "PostgreSQL", "Express.js"],
+        "A full-fledged e-commerce application built with Flutter for Android, iOS, and Web provides a unified, responsive UI across platforms, powered by a Node.js backend with Express.js and PostgreSQL for handling authentication, product management, cart, orders, and payments. The app includes features like product search, filtering, variant support, push notifications, and local caching, with Redis used on the backend for performance optimization and real-time features.",
+      technologies: [
+        "Flutter",
+        "Node.js",
+        "Dart",
+        "Java Script",
+        "Firebase",
+        "PostgreSQL",
+        "Express.js",
+        "Knex.js",
+        "Razorpay",
+        "State Management (Provider)",
+      ],
       image: "/placeholder.svg",
     },
     {
       id: 2,
-      title: "Task Management System",
+      title: "Biometric Attendance System",
       description:
-        "A collaborative task management app with real-time updates.",
-      technologies: ["Flutter", "Firebase", "BLoC"],
+        "A biometric attendance application that uses fingerprint recognition ensures secure and accurate attendance tracking by verifying each user's unique fingerprint before logging their check-in or check-out. It eliminates proxy attendance, improves efficiency, and is ideal for schools, offices, and factories where reliability and identity validation are critical.",
+      technologies: [
+        "Flutter",
+        "Node.js",
+        "Firebase",
+        "Express.js",
+        "MQTT",
+        "State Management (GetX)",
+      ],
       image: "/placeholder.svg",
     },
     {
       id: 3,
-      title: "Health Tracking App",
+      title: "NSE Devlivery Pro",
       description:
         "Mobile application for tracking health metrics and daily activities.",
       technologies: ["Flutter", "Hive", "BLoC"],
@@ -74,7 +92,7 @@ export const portfolioData = {
     },
     {
       id: 4,
-      title: "Social Media Platform",
+      title: "EDU Reels",
       description:
         "A social networking app with post sharing and messaging features.",
       technologies: ["Flutter", "Node.js", "Supabase"],
@@ -82,7 +100,7 @@ export const portfolioData = {
     },
     {
       id: 5,
-      title: "Food Delivery Service",
+      title: "Thirukkural App",
       description:
         "On-demand food delivery application with real-time order tracking.",
       technologies: ["Flutter", "Firebase", "Node.js"],
@@ -90,7 +108,7 @@ export const portfolioData = {
     },
     {
       id: 6,
-      title: "Real Estate Finder",
+      title: "Memchamp",
       description:
         "Property listing and search application with filtering capabilities.",
       technologies: ["Flutter", "Node.js", "PostgreSQL"],
@@ -98,7 +116,7 @@ export const portfolioData = {
     },
     {
       id: 7,
-      title: "Weather Forecast App",
+      title: "Thinker",
       description:
         "Weather application with location-based forecasts and alerts.",
       technologies: ["Flutter", "Dart", "API Integration"],
@@ -106,7 +124,7 @@ export const portfolioData = {
     },
     {
       id: 8,
-      title: "Inventory Management System",
+      title: "VSR",
       description: "Business inventory tracking and management solution.",
       technologies: ["Node.js", "Express.js", "PostgreSQL"],
       image: "/placeholder.svg",
@@ -143,45 +161,46 @@ export const portfolioData = {
 
   libraries: [
     {
-      name: "Flutter Data Table Pro",
+      name: "Whatsapp Text Formatter",
       type: "Flutter",
       description:
-        "Enhanced data table widget with sorting, filtering, and pagination.",
-      url: "#",
+        "WhatsApp Text Formatter is a Flutter package that enables WhatsApp-style rich text formatting. It supports bold, italic, strikethrough, monospace, inline code, bulleted lists, numbered lists, and blockquotes.",
+      url: "https://github.com/Jeeva0604/whatsApp_text_formatter",
     },
     {
-      name: "Flutter Chart Components",
+      name: "Image Viewer Pro",
       type: "Flutter",
       description:
-        "Collection of customizable chart widgets for data visualization.",
-      url: "#",
+        "A Flutter package that provides a full-screen image viewer supporting AssetImage, NetworkImage, and MemoryImage with customizable features such as indicators, close buttons, swipe-to-dismiss, and more.",
+      url: "https://github.com/Jeeva0604/image_viewer_pro",
     },
     {
-      name: "Flutter Form Builder",
-      type: "Flutter",
-      description: "Dynamic form generation and validation library.",
-      url: "#",
-    },
-    {
-      name: "Flutter Auth UI Kit",
+      name: "Timer Smooth Page Indicator",
       type: "Flutter",
       description:
-        "Ready-to-use authentication UI components with various themes.",
-      url: "#",
+        "A Flutter package for smooth, timer-based page indicators. Supports customizable styling, duration, and colors.Ideal for sliders, banners, and auto-scrolling carousels.",
+      url: "https://github.com/Jeeva0604/timer_smooth_page_indicator",
     },
     {
-      name: "Flutter Responsive Layout",
+      name: "Numeric UUID - Flutter",
       type: "Flutter",
       description:
-        "Utility package for creating responsive layouts across devices.",
-      url: "#",
+        "numeric_uuid is a Dart package that generates unique numeric UUIDs of variable lengths (10-30 digits). It ensures uniqueness by combining timestamps and random values.",
+      url: "https://github.com/Jeeva0604/numeric_uuid",
     },
     {
-      name: "Node API Generator",
+      name: "Network To Memory Image",
+      type: "Flutter",
+      description:
+        "Network To Memory Image is a Flutter library that converts network images into memory bytes (Uint8List).It helps in caching, processing, or uploading images without saving them to disk.Ideal for offline access, image editing, and fast in-app rendering.",
+      url: "https://github.com/Jeeva0604/network_to_memory_image",
+    },
+    {
+      name: "Numeric UUID - Node.js",
       type: "Node.js",
       description:
-        "CLI tool for scaffolding RESTful API endpoints from data models.",
-      url: "#",
+        "numeric_uuid is a Dart package that generates unique numeric UUIDs of variable lengths (10-30 digits). It ensures uniqueness by combining timestamps and random values.",
+      url: "https://github.com/Jeeva0604/numeric-uuid",
     },
   ],
 
