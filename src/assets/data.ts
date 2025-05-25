@@ -65,7 +65,7 @@ export const portfolioData = {
         "Razorpay",
         "State Management (Provider)",
       ],
-      image: "/placeholder.svg",
+      image: "/yaash_mart.jpg",
     },
     {
       id: 2,
@@ -80,7 +80,7 @@ export const portfolioData = {
         "MQTT",
         "State Management (GetX)",
       ],
-      image: "/placeholder.svg",
+      image: "/biometric_auth.png",
     },
     {
       id: 3,
@@ -88,30 +88,30 @@ export const portfolioData = {
       description:
         "Mobile application for tracking health metrics and daily activities.",
       technologies: ["Flutter", "Hive", "BLoC"],
-      image: "/placeholder.svg",
+      image: "/nse.jpg",
     },
     {
       id: 4,
       title: "EDU Reels",
       description:
         "A social networking app with post sharing and messaging features.",
-      technologies: ["Flutter", "Node.js", "Supabase"],
-      image: "/placeholder.svg",
+      technologies: ["Flutter", "Dart", "GetX"],
+      image: "/edu_reels.jpg",
     },
     {
       id: 5,
       title: "Thirukkural App",
       description:
         "On-demand food delivery application with real-time order tracking.",
-      technologies: ["Flutter", "Firebase", "Node.js"],
-      image: "/placeholder.svg",
+      technologies: ["Flutter", "Dart", "Bloc"],
+      image: "/thirukkural.jpg",
     },
     {
       id: 6,
       title: "Memchamp",
       description:
         "Property listing and search application with filtering capabilities.",
-      technologies: ["Flutter", "Node.js", "PostgreSQL"],
+      technologies: ["Flutter", "Dart", "Provider"],
       image: "/placeholder.svg",
     },
     {
@@ -119,33 +119,33 @@ export const portfolioData = {
       title: "Thinker",
       description:
         "Weather application with location-based forecasts and alerts.",
-      technologies: ["Flutter", "Dart", "API Integration"],
-      image: "/placeholder.svg",
+      technologies: ["Flutter", "Dart", "Provider"],
+      image: "/thinker.jpg",
     },
     {
       id: 8,
       title: "VSR",
       description: "Business inventory tracking and management solution.",
-      technologies: ["Node.js", "Express.js", "PostgreSQL"],
+      technologies: ["Flutter", "Dart", "Firebase", "Provider"],
       image: "/placeholder.svg",
     },
     {
       id: 9,
-      title: "Video Streaming Platform",
+      title: "Local Mart API",
       description: "Content streaming service with user subscriptions.",
       technologies: ["Flutter", "Node.js", "Firebase"],
-      image: "/placeholder.svg",
+      image: "/local_mart.jpg",
     },
     {
       id: 10,
-      title: "Budget Tracker",
+      title: "Ammayappan Mart API",
       description: "Personal finance and expense tracking application.",
       technologies: ["Flutter", "Hive", "BLoC"],
-      image: "/placeholder.svg",
+      image: "/ammayappan.jpg",
     },
     {
       id: 11,
-      title: "Fitness Coaching App",
+      title: "Video Automation API",
       description: "Workout planning and tracking with trainer connections.",
       technologies: ["Flutter", "Node.js", "Supabase"],
       image: "/placeholder.svg",
