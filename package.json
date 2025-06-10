@@ -3,12 +3,12 @@
   "private": true,
   "version": "0.0.0",
   "type": "module",
-  "homepage": "https://Jeeva0604.github.io/jeeva-digital-canvas",
+  "homepage": "https://Jeeva0604.github.io/jeeva_portfolio",
   "scripts": {
     "dev": "vite",
     "build": "vite build",
-    "predeploy": "npm run build && cp dist/index.html dist/404.html",
-    "deploy": "gh-pages -d dist",
+    "predeploy": "npm run build",
+    "deploy": "gh-pages -d build",
     "build:dev": "vite build --mode development",
     "lint": "eslint .",
     "preview": "vite preview"
