@@ -277,7 +277,7 @@ export const portfolioData = {
   },
 
   contact: {
-    email: "jeevar0628@gmail.com.com",
+    email: "jeevar0628@gmail.com",
     instagram: "jeeva_rs45",
     github: "Jeeva0604",
     linkedin: "jeeva-g-r0628",
