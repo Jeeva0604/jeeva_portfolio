@@ -15,6 +15,7 @@ export const portfolioData = {
     { name: "Provider", category: "Mobile" },
     { name: "GetX", category: "Mobile" },
     { name: "MobX", category: "Mobile" },
+    { name: "Riverpod", category: "Mobile" },
     { name: "Flutter Web", category: "Web" },
     { name: "Flutter Desktop", category: "Web" },
     { name: "HTML", category: "Web" },
