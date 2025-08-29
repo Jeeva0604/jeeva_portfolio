@@ -193,7 +193,7 @@ const Navbar: React.FC = () => {
               ))}
 
               {/* Mobile theme toggle button inside mobile menu */}
-              <div className="border-t border-gray-200 dark:border-gray-700 mt-2 pt-2 flex justify-center">
+              {/* <div className="border-t border-gray-200 dark:border-gray-700 mt-2 pt-2 flex justify-center">
                 <Button
                   variant="ghost"
                   size="icon"
@@ -206,7 +206,7 @@ const Navbar: React.FC = () => {
                     <Sun className="h-5 w-5" />
                   )}
                 </Button>
-              </div>
+              </div> */}
             </div>
           </motion.nav>
         )}

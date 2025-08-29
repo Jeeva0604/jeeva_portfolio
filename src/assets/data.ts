@@ -172,6 +172,21 @@ export const portfolioData = {
     },
     {
       id: 10,
+      title: "Yaash Attendance",
+      description:
+        "Yaash Attendance is a simple and effective app designed to help track worker attendance with ease. With its user-friendly interface, it allows secure Google Sign-In, effortless daily entry management, and real-time monitoring of worker status. Attendance data is organized under each project (ARC ID), making it easy to manage teams efficiently. Built for speed and simplicity, the app ensures a clean, intuitive experience for contractors and managers.",
+      technologies: [
+        "Flutter",
+        "Dart",
+        "Firebase",
+        "State Management (MobX)",
+        "Shorebird",
+      ],
+      image: "/yaash_attentance.jpg",
+    },
+
+    {
+      id: 11,
       title: "VSR",
       description:
         "VSR is a custom-built construction management app developed for a client to streamline on-site data collection and calculations. The app features multiple input forms where field data is recorded and processed using client-defined formulas. It provides clear insights into daily, weekly, and monthly income and loss, presented visually through graphs for better understanding. As my first client-connected project, I collaborated directly with the client throughout the development process, which gave me hands-on experience in requirement gathering, real-time feedback handling, and practical problem-solving — making it a key milestone in my learning journey.",
@@ -184,7 +199,7 @@ export const portfolioData = {
       image: "/vsr.png",
     },
     {
-      id: 11,
+      id: 12,
       title: "Local Mart API",
       description:
         "Local Mart API powers a small-scale e-commerce platform focused on delivering high-quality local products at affordable prices. Designed to support locally available essentials like vegetables, groceries, and daily-use items, the API enables smooth product listing, attribute management, stock tracking, and pricing. I developed the entire backend system, ensuring efficient data handling and scalability to serve both customers and sellers within the local community. This project highlights my ability to build practical, real-world APIs tailored to specific regional needs.",
@@ -199,7 +214,7 @@ export const portfolioData = {
       image: "/local_mart.jpg",
     },
     {
-      id: 12,
+      id: 13,
       title: "Video Automation API",
       description:
         "Video Automation API is a powerful backend tool designed to streamline content creation for businesses. Users submit a form with their photo and details, which are stored in the database. Within an hour, the API automatically processes the data, generates a video, and uploads it directly to platforms like YouTube, Instagram, and Facebook. This solution is highly valuable for automating marketing content and saving time. I developed the backend for this system, handling everything from data processing to third-party integration and scheduled automation.",
@@ -214,7 +229,7 @@ export const portfolioData = {
       image: "/video_automation.png",
     },
     {
-      id: 13,
+      id: 14,
       title: "Ammayappan Mart API",
       description:
         "Ammayappan Mart API is built for a small-scale e-commerce platform that focuses on providing essential household and grocery items, especially daily-use products like vegetables and kitchen needs. The API handles product management, pricing, stock tracking, and order-related data, ensuring a smooth and efficient backend for the app. Developed specifically for local community needs, this project reflects my experience in building functional and reliable APIs for small businesses aiming to digitize their operations.",
