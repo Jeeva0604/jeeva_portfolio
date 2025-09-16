@@ -2,7 +2,7 @@ export const portfolioData = {
   personalInfo: {
     name: "Jeeva G",
     role: "Flutter & Node.js Developer",
-    image: "/profile.jpeg", // We're using a placeholder image for now
+    image: "https://avatars.githubusercontent.com/u/107607064?v=4", // We're using a placeholder image for now
     bio: "Experienced developer specializing in Flutter mobile applications and Node.js backends. Passionate about creating efficient, scalable, and user-friendly applications.",
   },
 
