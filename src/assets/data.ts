@@ -2,7 +2,7 @@ export const portfolioData = {
   personalInfo: {
     name: "Jeeva G",
     role: "Flutter & Node.js Developer",
-    image: "https://avatars.githubusercontent.com/u/107607064?v=4", // We're using a placeholder image for now
+    image: "./profile.jpg", // We're using a placeholder image for now
     bio: "Experienced developer specializing in Flutter mobile applications and Node.js backends. Passionate about creating efficient, scalable, and user-friendly applications.",
   },
 
@@ -34,9 +34,9 @@ export const portfolioData = {
     { name: "Express.js", category: "Backend" },
     { name: "Knex.js", category: "Backend" },
     { name: "REST API Development", category: "Backend" },
-    { name: "MVC", category: "Architecture" },
     { name: "MVVM", category: "Architecture" },
     { name: "Clean Architecture", category: "Architecture" },
+    { name: "MVC", category: "Architecture" },
     { name: "Git & GitHub", category: "Development Tools & Platforms" },
     { name: "Andriod Studio", category: "Development Tools & Platforms" },
     { name: "Vs Code ", category: "Development Tools & Platforms" },
@@ -141,7 +141,7 @@ export const portfolioData = {
       title: "Thinker",
       description:
         "Thinker is a brain puzzle game designed to boost cognitive skills through a variety of mind-challenging puzzles and daily brain boosts. Featuring a sleek new design, smooth animations, and an intuitive interface, the app offers a visually engaging and seamless user experience. With regular puzzle updates and performance optimizations, Thinker ensures fast loading and smooth gameplay across devices. Whether you're solving logic-based challenges or simply exercising your brain, Thinker provides a clean and focused environment for mental development and fun.",
-      technologies: ["Flutter", "Dart", "State Management (Provider)"],
+      technologies: ["Flutterx,.", "Dart", "State Management (Provider)"],
       image: "/thinker.jpg",
     },
     {
